@@ -20,3 +20,25 @@ C<EXE_FILES: bin/cpanm>
 
 =back
 
+=head2 Sat Dec 29 22:39:13 2018: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/jurriaan/dev/j4jas/perl-osx/lib/site_perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 8.10>
+
+=item *
+
+C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
+
+=back
+
