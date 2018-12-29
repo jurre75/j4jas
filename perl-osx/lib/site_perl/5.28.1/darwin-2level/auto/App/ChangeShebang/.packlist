@@ -1,0 +1,2 @@
+/opt/perl/bin/change-shebang relocate_as=../../../../../../../bin/change-shebang
+/opt/perl/lib/site_perl/5.28.1/App/ChangeShebang.pm relocate_as=../../../../App/ChangeShebang.pm
