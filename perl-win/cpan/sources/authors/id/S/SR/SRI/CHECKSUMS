@@ -1,0 +1,351 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Thu Dec 20 10:54:04 2018 GMT by CPAN::Checksums (v2.12)
+$cksum = {
+  'Minion-9.03.meta' => {
+    'md5' => '82794d2d95716a12c98b8a0b9acf02b7',
+    'mtime' => '2018-04-19',
+    'sha256' => '735a2dbfcad64c71a48bd1340bb374c9b852439160403f8545ac281f7143c2c7',
+    'size' => 1425
+  },
+  'Minion-9.03.tar.gz' => {
+    'md5' => '6ddc71ee21b223a6a59cbb1a5b523205',
+    'md5-ungz' => '380ee8c2022211fd44a6ef56fd7f0b65',
+    'mtime' => '2018-04-19',
+    'sha256' => '4d0a730bdfb3f4e011b00276f24428d60171e86891e6fbdbdb2b2e729fab2ed4',
+    'sha256-ungz' => 'c79cd2dfac7ea17f9de4bfac8235f25cdce8c699c623c9952bb8ccf37844d879',
+    'size' => 795635
+  },
+  'Minion-9.04.meta' => {
+    'md5' => '2522d8291e84f5b054169bc61bdb25a4',
+    'mtime' => '2018-09-14',
+    'sha256' => 'd516c8c4629baca323a83d91d8c78a71d200662e385d298012566a706b8d80df',
+    'size' => 1448
+  },
+  'Minion-9.04.tar.gz' => {
+    'md5' => '7c95256ca809021024fa1b854c3d5c77',
+    'md5-ungz' => '2b41b51ffbfe294c18a9636f61040594',
+    'mtime' => '2018-09-14',
+    'sha256' => '4820e76ea58d5675060b5bb053be9aaf82fc7dbf4d410ab31c92c6c97b0968a9',
+    'sha256-ungz' => '3d41e9385b8b1c4279e8606bd8d7df1f153bbecb307c1d0c9ce227e1e4ee11cb',
+    'size' => 796031
+  },
+  'Minion-9.05.meta' => {
+    'md5' => '2ae00581d16fa41568e3a341209fbfa6',
+    'mtime' => '2018-09-18',
+    'sha256' => 'd82727609b3b95c69b97b3fe3ee3ed6a8764cb1546637198e8d0a03a4400e93c',
+    'size' => 1448
+  },
+  'Minion-9.05.tar.gz' => {
+    'md5' => 'cea9225a24765070c6ce082f993151a4',
+    'md5-ungz' => 'e1f1bdb813aef9161c9c2209fd151ccb',
+    'mtime' => '2018-09-18',
+    'sha256' => 'e5fda7afd1f1b4d8a50e87139747846f173d0b1583a50d86b67af39577178736',
+    'sha256-ungz' => '21d8806f68007c9afff126233452a5429dd0de8626ecd9712da27295e451d5a7',
+    'size' => 796048
+  },
+  'Minion-9.06.meta' => {
+    'md5' => 'a1e3efb97f5fcc833c5b1f2c3303898d',
+    'mtime' => '2018-09-22',
+    'sha256' => '043f8bea7d0364769d39e0a0ce3c8a76e9e1e1a5339d0c26660159b876c11460',
+    'size' => 1448
+  },
+  'Minion-9.06.tar.gz' => {
+    'md5' => '019b1ee5b63ba996b24d00e0f1f04d9a',
+    'md5-ungz' => '596bb86ac52f0ee6b3b9655548bb95d6',
+    'mtime' => '2018-09-22',
+    'sha256' => '8f83da8ba4cc983cc68aedfa495c9c91faf2e204abe7ce9a1b45dfc6ad8a6c34',
+    'sha256-ungz' => '63c219c33e02afc3498a7525437ea00e6f4b74d3e36d06209e15a3c5e044aa0e',
+    'size' => 1508089
+  },
+  'Minion-9.07.meta' => {
+    'md5' => '7850da832eab969c24438771c1fd08f2',
+    'mtime' => '2018-10-17',
+    'sha256' => '473f6db67a0117546a8d8e595c0934604af922aab654656d4baf2b0356cf0d10',
+    'size' => 1448
+  },
+  'Minion-9.07.tar.gz' => {
+    'md5' => 'ed92281d19a922a0c848ed9b87ad4e08',
+    'md5-ungz' => '6484f1c3159325ae421d6c57e6ba504f',
+    'mtime' => '2018-10-17',
+    'sha256' => 'e7076bb411fc2bb2fff2e6d4df9ed1d000023d945844f592b535237f4a84becd',
+    'sha256-ungz' => 'e108d287ce82388c2fe7d5dac60b1568c37201535fc8908b5738e7cf1a935dbc',
+    'size' => 1508123
+  },
+  'Mojo-Pg-4.09.meta' => {
+    'md5' => '66692743e5d58461a57c53edf0f193a9',
+    'mtime' => '2018-08-01',
+    'sha256' => '58371118d4a76dea376a1f4614d65d4a3d0119b63683b53b1a88bb4a22c6035e',
+    'size' => 1542
+  },
+  'Mojo-Pg-4.09.tar.gz' => {
+    'md5' => 'c8b438d2df7862c24ff5764b43fdeae7',
+    'md5-ungz' => 'f2a0a77009b7b415b6484d9f291fd516',
+    'mtime' => '2018-08-01',
+    'sha256' => '5a2ad76a41590c9f153fca86f0e400f52e0ddc85ad586836587589ea25a095b7',
+    'sha256-ungz' => '982a2b2bfe261ad563939cf9692ade5a4fa81359246bba51dd14bbc607884ee1',
+    'size' => 37053
+  },
+  'Mojo-Pg-4.10.meta' => {
+    'md5' => '3280a5dcd707b47137fd9433ec301c17',
+    'mtime' => '2018-09-14',
+    'sha256' => 'c8459c97f7321a1c44a4643fed7b2c5c7b89834e9678690661d767b0ca569a7d',
+    'size' => 1564
+  },
+  'Mojo-Pg-4.10.tar.gz' => {
+    'md5' => '7aca59cdd8ae2b3fb0b35abbdbdbbfa6',
+    'md5-ungz' => '508d4d5082f5defdb4f97d80ba31bb1e',
+    'mtime' => '2018-09-14',
+    'sha256' => 'c7b55f2da67fb24218549259bb87f220b7132492f0a2e329950067126ea9a48d',
+    'sha256-ungz' => '76e2c8e5ac037fc4b319cb876c017478278e44e1e1429498ad5f9ce65ba4cd4a',
+    'size' => 37102
+  },
+  'Mojo-Pg-4.11.meta' => {
+    'md5' => '530b874ffb7909682c46b39f71ba197f',
+    'mtime' => '2018-10-17',
+    'sha256' => '8964f7730638bde49311127a8f3c30aa940309b88f01fcd3f4cf597b4e445ae5',
+    'size' => 1564
+  },
+  'Mojo-Pg-4.11.tar.gz' => {
+    'md5' => '1ed8c89f71cbee9d6ba8f17c82f3061a',
+    'md5-ungz' => 'd7203a615786a6cbb3d3b6367e7edcef',
+    'mtime' => '2018-10-17',
+    'sha256' => 'ba0acc53732622239d5cf1e4eaaf026cd9ab0df5ca5fd30a9fdac7f1d2b37207',
+    'sha256-ungz' => '68eb0262f923012436ce8d50fd13924e1b13fedcfb17a489b02e255ecac06999',
+    'size' => 37148
+  },
+  'Mojo-Pg-4.12.meta' => {
+    'md5' => '02118d78f61af8989b93727008c456cf',
+    'mtime' => '2018-11-24',
+    'sha256' => '7c9ddaafd15865528906492b8d4c3bc7aa90ac12771de1fec88fd98657f47b9c',
+    'size' => 1564
+  },
+  'Mojo-Pg-4.12.tar.gz' => {
+    'md5' => '1a907e86d00f56d1d2dc5723378d0ed2',
+    'md5-ungz' => '8b4f098754fccabc2531893de417b499',
+    'mtime' => '2018-11-24',
+    'sha256' => 'e6f6e737b1011eb85662aacedd534a8b65dd0166313639ccf3990a71096fcce1',
+    'sha256-ungz' => 'fe5e3adb04967eaf955d29ebe9fe8fdc957331ad8882286dc8f008cdc567ee2e',
+    'size' => 37589
+  },
+  'Mojolicious-7.93.meta' => {
+    'md5' => '5b4cd8444bec603a855eb65becbf54a4',
+    'mtime' => '2018-08-12',
+    'sha256' => '3b58e27452b1e8def7126572de02c2051d665d3065eefd6cd6d87a9e1373e09b',
+    'size' => 1570
+  },
+  'Mojolicious-7.93.tar.gz' => {
+    'md5' => 'f22e24732db2a1d10c74d42af03fdf70',
+    'md5-ungz' => '9a9e5d3ef543582b530c9e6995950048',
+    'mtime' => '2018-08-12',
+    'sha256' => '00c30fc566fee0823af0a75bdf4f170531655df14beca6d51f0e453a43aaad5d',
+    'sha256-ungz' => '9ac124af4ea2909243c943d8d3adc575a453565c16954071e99c2f5afa5c06aa',
+    'size' => 747195
+  },
+  'Mojolicious-7.94.meta' => {
+    'md5' => '85431c9f2a8908c33ea62eee628979c1',
+    'mtime' => '2018-08-31',
+    'sha256' => '8c675e787b87684cc75b1bd1b15fb6fe2515da9fefa22b46b973947c145d6d3c',
+    'size' => 1570
+  },
+  'Mojolicious-7.94.tar.gz' => {
+    'md5' => 'c07726caa2095dd8aabb520bf3e0b24b',
+    'md5-ungz' => 'cdc23775c1233cc420d1dfe9e8ef9428',
+    'mtime' => '2018-08-31',
+    'sha256' => '171a1741f3ea57519657bfb1e40a5290149d7c7d69a1131464c7db23029e8f6e',
+    'sha256-ungz' => '60ef537eafff013a49a9f4440c713e13966a6feea2c99047b8dffbafb9d95249',
+    'size' => 747870
+  },
+  'Mojolicious-8.0.meta' => {
+    'md5' => '09754ff6571ff24ac4c3022d8476bf40',
+    'mtime' => '2018-09-14',
+    'sha256' => '69ad081d8b43dc0eaee27ad2c319a3524d65ae163bcd3c05d434589d20869a2a',
+    'size' => 1591
+  },
+  'Mojolicious-8.0.tar.gz' => {
+    'md5' => '0da107065c24368a15af807e31afcc30',
+    'md5-ungz' => '03a5fe5c281369d1bdcb652cd1cfbdb0',
+    'mtime' => '2018-09-14',
+    'sha256' => 'b266fd32f12cca2504be012e785f34eb09c0a132df52be183ff5d494e87f0b98',
+    'sha256-ungz' => '50fa486e91a590b29d84948bd927d3e80e23f8d8ff16d1a6c9cd392beb5007c2',
+    'size' => 748351
+  },
+  'Mojolicious-8.01.meta' => {
+    'md5' => '1a9e65c54a76b1e7c70f3855dd216c6a',
+    'mtime' => '2018-09-25',
+    'sha256' => '83e968be224e16f4224b6db17a4fce92af53ebe95cfdbb70766726230d90b3bc',
+    'size' => 1592
+  },
+  'Mojolicious-8.01.tar.gz' => {
+    'md5' => '286b798533eb530561e3e7065043ed27',
+    'md5-ungz' => '615ea91b3d6d94760acbdd2ef6b9815e',
+    'mtime' => '2018-09-25',
+    'sha256' => '2c7d02a2cc49fa2a5323ae1d0b89e69c48ae06965c095523708eae6d74218ebf',
+    'sha256-ungz' => 'fbe256c65a434bc37135952c782ba6c56c59a42ca1f03d8f6239de22cab0809b',
+    'size' => 748717
+  },
+  'Mojolicious-8.02.meta' => {
+    'md5' => '39e8a775569037fde5a34d94e97f082b',
+    'mtime' => '2018-10-01',
+    'sha256' => '9c030435882a178ee2eb47965ff6397093c96e7ce1d75536ac479ed6ab16eb0b',
+    'size' => 1592
+  },
+  'Mojolicious-8.02.tar.gz' => {
+    'md5' => 'c464c2a3aeac933c0abc58dc97510a2d',
+    'md5-ungz' => '84b4d274b1f841a3c3d7f3109ed2ba15',
+    'mtime' => '2018-10-01',
+    'sha256' => 'f70be0d9990408ec6022170d8fc050cfe49ce13471f9344be07c2f5420fd6654',
+    'sha256-ungz' => 'de8c703eff6b960155f4cee7399294b8c455ecb94e62b0727cf1f40c392d226d',
+    'size' => 750469
+  },
+  'Mojolicious-8.03.meta' => {
+    'md5' => '63d8f6f6c109425561ac82e0001d9749',
+    'mtime' => '2018-10-16',
+    'sha256' => '4fc56d21ef7eef6d270f2e8cf33e2fc29037bac2f4c893f7b3c16dc8e68c9974',
+    'size' => 1627
+  },
+  'Mojolicious-8.03.tar.gz' => {
+    'md5' => 'd3b721bc55c254d8128ca7dd7556f181',
+    'md5-ungz' => '531ecd3780af40385d33751910f2ac6b',
+    'mtime' => '2018-10-16',
+    'sha256' => 'feb220fc42dace11264e0f065f0f3fe74b90a9d569631897a414231654fea14b',
+    'sha256-ungz' => 'ce17f2da6b830d72bf347fe4f03179cd281c5a49412314de10b70e97182c0f71',
+    'size' => 751739
+  },
+  'Mojolicious-8.04.meta' => {
+    'md5' => '5a38b45bed31c0ad353e09e57867dc39',
+    'mtime' => '2018-10-21',
+    'sha256' => 'd94d3f43c3bb26f3d270356461ff4042008e20a4d6ba13d4a74d8fd6514541c8',
+    'size' => 1627
+  },
+  'Mojolicious-8.04.tar.gz' => {
+    'md5' => 'f1d22e9110f1b51f4be9a40a84391089',
+    'md5-ungz' => '5f1f392fb4ad1347c0aaceea5b8db3b4',
+    'mtime' => '2018-10-21',
+    'sha256' => '330e919f3caf62e03fdc545dda2e66f772f30192aed6c47e19fd78f67de557fb',
+    'sha256-ungz' => 'ac50f8103fcfeee7a43d927cc870a2115d00a8ca491127928bb91c39e144e308',
+    'size' => 753563
+  },
+  'Mojolicious-8.05.meta' => {
+    'md5' => '3f431c16e5992684eef87b409210ae73',
+    'mtime' => '2018-11-01',
+    'sha256' => 'abce36928d4de16f7fd60dd249eabdf532a045d70133bed3d682847d1564da8c',
+    'size' => 1591
+  },
+  'Mojolicious-8.05.tar.gz' => {
+    'md5' => 'a14c92c0c38a488d11764818840ab668',
+    'md5-ungz' => '2b65978ffe6cd363749fd77db44bbbfe',
+    'mtime' => '2018-11-01',
+    'sha256' => '539ad5405de245964dd00f8b31fe4474a5402412aefc6f1b109ad3e670985e72',
+    'sha256-ungz' => '4b046a7403f4aec90c63e74cc902e565bfcf10a0f8f5a7a8c869c6da4ed37c23',
+    'size' => 750307
+  },
+  'Mojolicious-8.06.meta' => {
+    'md5' => '15bee518973514ed5b988588168eb744',
+    'mtime' => '2018-11-08',
+    'sha256' => '070fd89397215001e25af4adf9a88573d23edde91ba6cf60b2aebed5ff2261f6',
+    'size' => 1591
+  },
+  'Mojolicious-8.06.tar.gz' => {
+    'md5' => '001075411d8bc033ead894ff600d6a9f',
+    'md5-ungz' => '2569338074235bf8ce8082208e020b47',
+    'mtime' => '2018-11-08',
+    'sha256' => '6198f8430d3c4be686b075bc02a2ef5b4486bc8bcf60a3482cf5250c846d1748',
+    'sha256-ungz' => '4803bf3a3eb8388d8dd47431e37bf934e05e69843647400ce581ec3f5140e155',
+    'size' => 753513
+  },
+  'Mojolicious-8.07.meta' => {
+    'md5' => 'b7f8bfbda8a737b164110652309fcb82',
+    'mtime' => '2018-11-18',
+    'sha256' => '79211ec17f64935379777759dab630f70c578d4658e1b1bf746e385ec187e5b9',
+    'size' => 1591
+  },
+  'Mojolicious-8.07.tar.gz' => {
+    'md5' => '5557d3d55bad4deb4083f13e88f83286',
+    'md5-ungz' => 'a4c297e8b4c75d9fb307f812b07ade13',
+    'mtime' => '2018-11-18',
+    'sha256' => '53e2971d6ce11fb29e7956079b2d6c3f77b1fcb43f1538854f950f7d7380f8ee',
+    'sha256-ungz' => '0cb2657653d5051483175a0feb88ae1a8a9d518080177d19f052c145cd236962',
+    'size' => 753682
+  },
+  'Mojolicious-8.08.meta' => {
+    'md5' => 'a9462971e89a4f1decbe9ead7a968357',
+    'mtime' => '2018-12-01',
+    'sha256' => '109885ea61c65e4df8b6b44992439178738dc4adc9400739623090c4c6292d34',
+    'size' => 1591
+  },
+  'Mojolicious-8.08.tar.gz' => {
+    'md5' => '379aec2b4ef076aad28eb46b771ff3f1',
+    'md5-ungz' => '47bf6357c1956e62c1127a796f037798',
+    'mtime' => '2018-12-01',
+    'sha256' => '91f5c13559ed5f958f5be6a8ce02a3b46c1b1abae4fa24614571f250feb10680',
+    'sha256-ungz' => '79929345b1f73c05f5d180e0d92ea9b50eefc987c815e05fcc2e0d3a0150aa96',
+    'size' => 753146
+  },
+  'Mojolicious-8.09.meta' => {
+    'md5' => 'dc5cbcf686087cbe95f054bbe857417a',
+    'mtime' => '2018-12-04',
+    'sha256' => '8784af5be0e7500043216951ad169ce3ffd87fcfadc7d91c9239e1fb1a8cd83d',
+    'size' => 1591
+  },
+  'Mojolicious-8.09.tar.gz' => {
+    'md5' => 'd1e84904ca7f846eab20aa3b3f8caa5c',
+    'md5-ungz' => '2b68a380fdea16d6e5df288b8786caee',
+    'mtime' => '2018-12-04',
+    'sha256' => '5b96c9b5ead98ae1f0391f51a9c962f4dbaa9c29ec730bb71c2b0fbae37640d9',
+    'sha256-ungz' => 'd2c585e0af2438d0975b68bd856aa2b00ab047048836d25a05e528346fa0eefd',
+    'size' => 753591
+  },
+  'Mojolicious-8.10.meta' => {
+    'md5' => '3d4841c2b07c53e0811e078a4b805b35',
+    'mtime' => '2018-12-20',
+    'sha256' => 'ed57353ec1608db8244ef2801f76a20005f48ae7b377f0cce55c032d0e31145f',
+    'size' => 1588
+  },
+  'Mojolicious-8.10.tar.gz' => {
+    'md5' => '143d145620e25db72a8c23e5e6880bc6',
+    'md5-ungz' => '2e9e23243e22dfcc501c18dc50746e0c',
+    'mtime' => '2018-12-20',
+    'sha256' => '9bbcd189cb5c902cefaa0edfd830b5a23abe076b369bfd69b758101f0573df65',
+    'sha256-ungz' => '20a9b54cbbae50b265246fbd31eb40503d95cecad598155c5ce89585fb0d284f',
+    'size' => 754007
+  },
+  'Mojolicious-Plugin-Status-0.03.meta' => {
+    'md5' => '67b31a9e059bd54531451499ec3dbc7b',
+    'mtime' => '2018-07-23',
+    'sha256' => 'c87ba11bf311a905c1bc2b6d114353b3fd737ce6ff4e1ff75a146604839d48f3',
+    'size' => 1575
+  },
+  'Mojolicious-Plugin-Status-0.03.tar.gz' => {
+    'md5' => '279ceb5c95156f96d706cc554ffde13b',
+    'md5-ungz' => '414f724908e5de0a2b123e76e3f1b785',
+    'mtime' => '2018-07-23',
+    'sha256' => '13806477df052f608981b2d18ad1461ec59675646166c7274cd30f2705158533',
+    'sha256-ungz' => '41fa52ba1a31725ba5a7b2f8cdc8747beabd3ad4dabfcc1ff5648233a0e0237d',
+    'size' => 1335861
+  },
+  'Mojolicious-Plugin-Status-1.0.meta' => {
+    'md5' => 'b6d1a149acc8226750b9c47856176b37',
+    'mtime' => '2018-09-18',
+    'sha256' => 'c323774f5820218a189bdc462885e08517d0e98b93607dad83e6f1e6e809fba4',
+    'size' => 1596
+  },
+  'Mojolicious-Plugin-Status-1.0.tar.gz' => {
+    'md5' => '684a1a18e3f9eb6f4ab95cbd06cb1a09',
+    'md5-ungz' => 'b651f2a8b0373d1704e75aa8bc795549',
+    'mtime' => '2018-09-18',
+    'sha256' => '2b17fc57d099e1d6882bfde6cade829d8511f4a7e7d663f0db3ecd968e79d793',
+    'sha256-ungz' => '4fa76352986bf80190fe9f58944fb12f1bc329d8c850b07109a22c248e059ecf',
+    'size' => 1336222
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iEYEARECAAYFAlwbdMwACgkQMo2oZ0UPiewXmwCfajTQlFYo5QvwVxjzVGkJAJm6
+8gYAn0lyylQF0SpMO1+WaMz1dio1yUih
+=KRrs
+-----END PGP SIGNATURE-----

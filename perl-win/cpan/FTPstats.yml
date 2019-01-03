@@ -1,0 +1,57 @@
+---
+history:
+- attempts:
+  - method: dleasy
+    start: 1546437995.96979
+    url: &1 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546437998.70864
+  file: authors/01mailrc.txt.gz
+  filesize: 256663
+  start: 1546437995.9681
+  thesiteurl: *1
+- attempts:
+  - method: dleasy
+    start: 1546437998.72852
+    url: &2 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546438001.137
+  file: modules/02packages.details.txt.gz
+  filesize: 2140826
+  start: 1546437998.72698
+  thesiteurl: *2
+- attempts:
+  - method: dleasy
+    start: 1546438001.16637
+    url: &3 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546438002.07813
+  file: modules/03modlist.data.gz
+  filesize: 248
+  start: 1546438001.1659
+  thesiteurl: *3
+- attempts:
+  - method: dleasy
+    start: 1546438015.99975
+    url: &4 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546438023.54088
+  file: authors/id/S/SR/SRI/Mojolicious-8.10.tar.gz
+  filesize: 754007
+  start: 1546438015.99567
+  thesiteurl: *4
+- attempts:
+  - method: dleasy
+    start: 1546438023.62042
+    url: &5 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546438024.70879
+  file: authors/id/S/SR/SRI/CHECKSUMS
+  filesize: 14318
+  start: 1546438023.61406
+  thesiteurl: *5
