@@ -55,3 +55,58 @@ history:
   filesize: 14318
   start: 1546438023.61406
   thesiteurl: *5
+- attempts:
+  - method: dleasy
+    start: 1546531129.23271
+    url: &6 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546531131.61553
+  file: authors/01mailrc.txt.gz
+  filesize: 256663
+  start: 1546531129.23205
+  thesiteurl: *6
+- attempts:
+  - method: dleasy
+    start: 1546531131.65533
+    url: &7 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546531133.37961
+  file: modules/02packages.details.txt.gz
+  filesize: 2140840
+  start: 1546531131.65471
+  thesiteurl: *7
+- attempts:
+  - method: dleasy
+    start: 1546531133.40358
+    url: &8 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546531134.39377
+  file: modules/03modlist.data.gz
+  filesize: 248
+  start: 1546531133.40303
+  thesiteurl: *8
+- attempts:
+  - method: dleasy
+    start: 1546531144.60255
+    url: &9 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546531145.80038
+  file: authors/id/T/TO/TOMK/Mojo-Server-Threaded-0.16.tar.gz
+  filesize: 19092
+  start: 1546531144.59578
+  thesiteurl: *9
+- attempts:
+  - method: dleasy
+    start: 1546531145.8401
+    url: &10 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1546531146.62317
+  file: authors/id/T/TO/TOMK/CHECKSUMS
+  filesize: 9052
+  start: 1546531145.83171
+  thesiteurl: *10

@@ -9260,3 +9260,25 @@ C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
 
 =back
 
+=head2 Thu Jan  3 15:59:56 2019: C<Module> L<Mojo::Server::Threaded|Mojo::Server::Threaded>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\julaan\j4jas\j4jas\perl-win\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: script/elzar>
+
+=back
+
