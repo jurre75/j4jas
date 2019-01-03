@@ -1,0 +1,32 @@
+setup.txt
+
+OSX:
+
+install homebrew
+
+install plenv
+
+
+sudo cpan -i Mozilla::CA
+
+plenv install --list
+
+plenv install 5.28.1
+plenv rehash
+plenv global 5.28.1
+
+plenv install-cpanm
+
+cpanm Carton
+
+plenv rehash
+
+cd j4jas
+
+plenv local 5.28.1
+
+echo 'requires "Mojolicious";' >> cpanfile
+
+carton install
+
+echo local/ >> .gitignore
